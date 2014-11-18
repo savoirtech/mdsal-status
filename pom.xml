@@ -32,7 +32,7 @@
     <groupId>com.savoirtech.karaf.commands</groupId>
     <artifactId>mdsal-status</artifactId>
     <packaging>bundle</packaging>
-    <version>0.1.0.M1</version>
+    <version>0.1.1.M1-SNAPSHOT</version>
     <name>OpenDaylight Helium :: Shell mdsal/status Command</name>
 
     <description>Provides MDSAL Status command</description>
